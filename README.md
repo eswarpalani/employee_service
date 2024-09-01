@@ -35,3 +35,6 @@ To run this project, you need to have:
 ```bash
 git clone https://github.com/eswarpalani/employee-service.git
 cd employee-service
+mvn spring-boot:run
+##API document
+http://localhost:8080/swagger-ui/index.html
